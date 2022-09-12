@@ -8,14 +8,16 @@ OSC通信を利用して値を受信するサンプルプロジェクト
 
   <img src="https://github.com/Eotel/OscCommunicationSample/blob/images/imgs/second_registry.png" width="720">
 
-1. PackageManagerからOSCJackVSをインストールする
+2. PackageManagerからOSCJackVSをインストールする
 
   <img src="https://github.com/Eotel/OscCommunicationSample/blob/images/imgs/packagemanager.png" width="720">
-1. ZIG SIM を設定する
+
+3. ZIG SIMを設定する
 
   - Sensor > Quaternion を送信する設定にする
   - Setting > IP Address をUnityを実行するPCのIPアドレスに設定する
   - Setting > Port Number を`9000`にする
   - Setting > Device UUID を`iPhone`にする
 
-1. ZIG SIMとUnityを実行する
+4. ZIG SIMとUnityを実行する
+  - Unityを起動するとコンソールにエラーが出るので，指示に従いVisualScript Nodeを再構成する（Player Settings内の指定のボタン押すだけ）
