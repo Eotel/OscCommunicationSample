@@ -21,3 +21,9 @@ OSC通信を利用して値を受信するサンプルプロジェクト
 
 4. ZIG SIMとUnityを実行する
   - Unityを起動するとコンソールにエラーが出るので，指示に従いVisualScript Nodeを再構成する（Player Settings内の指定のボタン押すだけ）
+
+
+## 追記
+
+- VisualScript はgitに上げてないので，自分で書かないと動かない！
+- 忘れていました
